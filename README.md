@@ -1,7 +1,7 @@
-# Development
+# Final Portfolio Website
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+If you used the stencil code, this is `https://risingbull888.github.io/portfolio`
 
 ### Goal and Value of the Application
 
