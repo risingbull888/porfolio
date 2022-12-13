@@ -163,7 +163,7 @@ function App() {
               <Stack mt='6' spacing='3'>
                 <Heading size='md'>Responsive Redesign</Heading>
                 <Text>
-                  Complete Analysis and Redesign of the Brown CS IPP Website, implementing improved UX and optimized workflows for the intended functionality of the website.
+                  Complete analysis and redesign of the Brown CS IPP Website, implementing improved UX and optimized workflows for the intended functionality of the website.
                 </Text>
                 <Text as = 'b' color='gray.200' fontSize='2xl'>
                   October 2022
