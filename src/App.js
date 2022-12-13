@@ -70,7 +70,7 @@ function App() {
         align="center"
         justify="space-between"
       >
-        <Heading as = 'h1' size ='lg'>Rising Bull's Portfolio</Heading>
+        <Heading as = 'h1' size ='lg'>🚀 Rising Bull's Portfolio 🐂 </Heading>
         <HStack as="nav" spacing="10">
           
             <Button variant="nav" onClick={modala.onOpen}> {"About Me"} </Button>
@@ -81,10 +81,10 @@ function App() {
                 <ModalHeader>About Me</ModalHeader>
                 <ModalCloseButton />
                 <ModalBody>
-                  <b>I am Rising Bull 888.</b>
+                  <b>I am 🚀 Rising Bull 888 🐂.  </b>
                   <br></br>
                   <br></br>
-                  I am a Brown Student taking the esteemed UIUX course taught be legendary Professor Jeff Huang.
+                  I am a Brown Student taking the esteemed UIUX course taught by legendary Professor Jeff Huang 👑 
                   <br></br>
                   <br></br>
                   I think that speaks for itself.
@@ -105,13 +105,13 @@ function App() {
                 <ModalHeader>My CV</ModalHeader>
                 <ModalCloseButton />
                 <ModalBody>
-                  BullTech UX Research Intern : <i>2019-2021</i>
+                🐂 BullTech UX Research Intern : <i>2019-2021</i>
                   <br></br>
                   <br></br>
-                  Brown University CS Promoter : <i>2020-Present</i>
+                  💻 Brown University CS Promoter : <i>2020-Present</i>
                   <br></br>
                   <br></br>
-                  Rising Gaming Club President : <i>2018-Present</i>
+                  🎮 Rising Gaming Club President : <i>2018-Present</i>
                 </ModalBody>
                 <ModalFooter>
                   <Button onClick={modalm.onClose}>Close</Button>
@@ -137,7 +137,7 @@ function App() {
                   <br></br>
                   My email is risingbull888@brown.edu. 
                   <br></br>
-                  Looking forward to our future collaboration!
+                  Looking forward to our future collaboration! 🤝🏼
                 </ModalBody>
                 <ModalFooter>
                   <Button onClick={modalc.onClose}>Close</Button>
@@ -213,7 +213,7 @@ function App() {
                               <h2>
                                 <AccordionButton>
                                   <Box flex='1' textAlign='left'>
-                                    <b>About the Project</b>
+                                    <b>Project Description</b>
                                   </Box>
                                   <AccordionIcon />
                                 </AccordionButton>
