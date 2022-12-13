@@ -105,7 +105,7 @@ function App() {
                 <ModalHeader>My CV</ModalHeader>
                 <ModalCloseButton />
                 <ModalBody>
-                🐂 BullTech UX Research Intern : <i>2019-2021</i>
+                  🐂 BullTech UX Research Intern : <i>2019-2021</i>
                   <br></br>
                   <br></br>
                   💻 Brown University CS Promoter : <i>2020-Present</i>
